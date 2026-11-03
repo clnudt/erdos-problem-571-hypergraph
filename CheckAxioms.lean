@@ -1,0 +1,9 @@
+import Erdos571_hypergraph_L11_Zero
+import Erdos571_hypergraph_L25_RootFibreProof
+
+#print axioms Erdos571_hypergraph.rootFibreDichotomy_proved
+#print axioms Erdos571_hypergraph.rootFibreDichotomy
+#print axioms Erdos571_hypergraph.main
+#print axioms Erdos571_hypergraph.main_zero
+#print axioms Erdos571_hypergraph.main_all
+#print axioms Erdos571_hypergraph.main_rat
